@@ -29,6 +29,8 @@ It relies on a REST API that uses JWT and a database with encrypted data.
 
 ## Demonstration
 
+https://github.com/alexxarisis/Multi-Factor-Authentication/assets/65713456/f924269e-bfc5-4f9c-adb4-45995a885193
+
 ## Screenshots
 
 ### Login
