@@ -14,6 +14,7 @@ It relies on a REST API that uses JWT and a database with encrypted data.
 ## Features
 * Dummy web interface
 * REST API
+* Async requests
 * JWT authentication
     - Strong private key
     - RSA + SHA256 token validation
